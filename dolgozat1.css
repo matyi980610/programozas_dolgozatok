@@ -1,0 +1,50 @@
+/*csslint order-alphabetical: false*/
+body
+{
+    background-color: #D6E3F2;
+}
+.fo-menu
+{
+    background-color: #1A1F3E;
+    height: 80px;
+    width: 1000px;
+    margin:20px 0 0 0;
+}
+.menupont
+{
+    background-color: #45698E;
+    
+    display: inline-block;
+    
+    text-align: center;
+    width: 150px;
+    height: 10px;
+    padding: 30px 0 40px 0;
+
+    
+}
+.nagybox
+{
+    background-color: #1A1F3E;
+    width: 1000px;
+    margin: 20px 0 20px 0 ;
+    text-align: center;
+}
+.kisbox
+{
+    display: inline-block;
+    width: 200px;
+    background-color: lightgreen;
+    height: 300px;
+    margin: 50px 20px 50px 20px ;
+    text-align: center;
+}
+.tartalom
+{
+    width: 960px;
+    height: 980px;
+    background-color: #45698E;
+    color: white;
+    padding: 20px 20px
+    
+}
